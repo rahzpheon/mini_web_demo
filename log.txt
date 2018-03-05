@@ -1,0 +1,9 @@
+2018-01-21 15:07:33,757This is a info message.
+2018-01-21 15:07:53,028----INFO--This is a info message.
+2018-01-21 15:08:03,218--hm_05_logging.py--INFO--This is a info message.
+2018-01-21 15:08:24,636--hm_05_logging.py[line:]--INFO--This is a info message.
+2018-01-21 15:09:44,373--hm_05_logging.py[line:22]--INFO--This is a info message.
+2018-01-21 15:18:19,807--hm_05_logging.py[line:22]--INFO--This is a info message.
+2018-01-21 15:18:19,808--hm_05_logging.py[line:47]--INFO--Logger() info message
+2018-01-21 15:18:19,808--hm_05_logging.py[line:48]--CRITICAL--Logger() critical message
+2018-01-21 15:18:19,808--CRITICAL--Logger() critical message
